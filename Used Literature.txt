@@ -1,0 +1,10 @@
+For the developement of this model the following literature and the literature of the paper (Performance Analysis of a 50 kVA Unified Power Quality Conditioner Model for Low Voltage Distribution Network Application) were used.
+
+Pedro Rodríguez, Member, IEEE, Josep Pou, Member, IEEE, Joan Bergas, Member, IEEE,
+J. Ignacio Candela, Member, IEEE, Rolando P. Burgos, Member, IEEE, and Dushan Boroyevich, Fellow, IEEE, Decoupled Double Synchronous Reference Frame PLL for Power Converters Control, IEEE TRANSACTIONS ON POWER ELECTRONICS, VOL. 22, NO. 2, MARCH 2007, Digital Object Identifier 10.1109/TPEL.2006.890000
+
+J. Allmeling, "A control structure for fast harmonics compensation in active filters," in IEEE Transactions on Power Electronics, vol. 19, no. 2, pp. 508-514, March 2004, doi: 10.1109/TPEL.2003.823172.
+
+M. Merai, M. W. Naouar, I. Slama-Belkhodja and E. Monmasson, "An improved dc-link voltage control for a three-phase PWM rectifier using an adaptive PI controller combined with load current estimation," 2017 19th European Conference on Power Electronics and Applications (EPE'17 ECCE Europe), Warsaw, Poland, 2017, pp. P.1-P.10, doi: 10.23919/EPE17ECCEEurope.2017.8099219.
+
+B. Han, B. Bae, H. Kim and S. Baek, "Combined operation of unified power-quality conditioner with distributed generation," in IEEE Transactions on Power Delivery, vol. 21, no. 1, pp. 330-338, Jan. 2006, doi: 10.1109/TPWRD.2005.852843  
